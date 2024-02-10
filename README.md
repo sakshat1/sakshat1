@@ -1,5 +1,5 @@
 -# Hi, I'm sakshi verma 👋 👩 💻
-<img src="girl.jpg">
+<div style="background-color:#33475b">><img  src="girl.jpg"></div>
 
 
 I'm an engineer in computer science.
@@ -8,7 +8,6 @@ I'm an engineer in computer science.
 🎫 My personality is made more interesting by my non-technical interests, which include badminton and learning new things.
 🧳🛫🌎 wanderlust
 
-🔖 Open Source Contributor as Mentee for PClub Summer of Code 2020
 
 ## Contact Me ☎
  -📧 Mail me on [Gmail](vermasakshi7750@gmai.com)
