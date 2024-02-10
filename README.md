@@ -1,5 +1,5 @@
--# Hi, I'm Shilpe 👋 👩 💻
-<img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe_saxena.png">
+-# Hi, I'm sakshi verma 👋 👩 💻
+<img src="girl.jpg">
 
 
 I'm an engineer in computer science.
